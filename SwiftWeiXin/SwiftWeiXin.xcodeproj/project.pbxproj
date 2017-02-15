@@ -13,6 +13,7 @@
 		72A284C71E4EDDDA0034231F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72A284C61E4EDDDA0034231F /* Assets.xcassets */; };
 		72A284CA1E4EDDDA0034231F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72A284C81E4EDDDA0034231F /* LaunchScreen.storyboard */; };
 		72A284D21E53E6D70034231F /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72A284D11E53E6D70034231F /* ViewController2.swift */; };
+		72A284D41E53E8E30034231F /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72A284D31E53E8E30034231F /* ViewController3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		72A284C91E4EDDDA0034231F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		72A284CB1E4EDDDA0034231F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		72A284D11E53E6D70034231F /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		72A284D31E53E8E30034231F /* ViewController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				72A284C81E4EDDDA0034231F /* LaunchScreen.storyboard */,
 				72A284CB1E4EDDDA0034231F /* Info.plist */,
 				72A284D11E53E6D70034231F /* ViewController2.swift */,
+				72A284D31E53E8E30034231F /* ViewController3.swift */,
 			);
 			path = SwiftWeiXin;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			files = (
 				72A284C21E4EDDDA0034231F /* ViewController.swift in Sources */,
 				72A284C01E4EDDDA0034231F /* AppDelegate.swift in Sources */,
+				72A284D41E53E8E30034231F /* ViewController3.swift in Sources */,
 				72A284D21E53E6D70034231F /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
